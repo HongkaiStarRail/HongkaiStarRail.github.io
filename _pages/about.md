@@ -1,17 +1,14 @@
 ---
 permalink: /
-title: "Xinghao Chen's personal websites"
+title: "Xinghao Chen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a Master student from [School of ECE](https://www.ece.uw.edu/), [University of Washington](https://www.washington.edu/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](cxh42@uw.edu) / [Github](https://github.com/HongkaiStarRail)
+I'm a Master student from [School of ECE](https://www.ece.uw.edu/), [University of Washington - Seattle](https://www.washington.edu/). My research interest includes Generative AI, Computer Vision, Large Language Model and Brain Computer Interface.
+You can find my CV here: [Xinghao Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 A data-driven personal website
 ======
