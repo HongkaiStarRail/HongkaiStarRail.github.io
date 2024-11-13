@@ -9,13 +9,10 @@ redirect_from:
 
 About me
 -----
-Hi, my name is Xinghao Chen (陈星昊). I'm currently a Master student in [ECE](https://www.ece.uw.edu/), [University of Washington](https://www.washington.edu/).  
-My research interest includes Generative AI, Computer Vision, Large Language Model and Brain Computer Interface.  
-
-Contact me
------
-* Phone: 206-535-9185
-* Email: xhc42@outlook.com
+Hi, my name is Xinghao Chen.:wave:  
+Currently M.S. student in [ECE](https://www.ece.uw.edu/), [University of Washington](https://www.washington.edu/).:school:  
+My research interest includes Generative AI, Computer Vision, Large Language Model and Brain Computer Interface.:technologist:  
+Preparing for future PhD applications.:mortar_board:
 
 Education experience
 -----
