@@ -11,7 +11,7 @@ About me
 -----
 Hi, my name is Xinghao Chen.:wave:  
 Currently M.S. student in [ECE](https://www.ece.uw.edu/), [University of Washington](https://www.washington.edu/).:school:  
-My research interest includes Generative AI, Computer Vision, Large Language Model and Brain Computer Interface.:technologist:  
+My research interest includes Generative AI, Computer Vision, Large Language Model:technologist:  
 Preparing for future PhD applications.:mortar_board:
 
 Education experience
