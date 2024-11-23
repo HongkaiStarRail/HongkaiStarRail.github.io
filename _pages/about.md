@@ -9,4 +9,4 @@ redirect_from:
 
 Create content & metadata
 ------
-Hi.
+Hi, I am Xinghao Chen, a first year Master Student in Univesity of Washington ECE major. I am planning to pursue a PhD degree in the future.
