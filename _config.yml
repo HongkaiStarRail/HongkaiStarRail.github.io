@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xinghao Chen's Personal Website"
 title_separator          : "-"
 name                     : &name "Xinghao Chen"
-description              : &description "Hi, I am Xinghao Chen, a first year Master Student in Univesity of Washington ECE major. I am planning to pursue a PhD degree in the future."
+description              : &description "This is personal website of Xinghao Chen."
 url                      : https://hongkaistarrail.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hongkaistarrail/hongkaistarrail.github.io"
@@ -22,21 +22,21 @@ repository               : "hongkaistarrail/hongkaistarrail.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "陈星昊"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hi, I am Xinghao Chen, a first year Master Student in Univesity of Washington ECE major. I am planning to pursue a PhD degree in the future."
+  location         : "Seattle, WA, US"
+  employer         : "University of Washington"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xhc42@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "hongkaistarrail"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : chenxinghao
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
