@@ -9,4 +9,12 @@ redirect_from:
 
 About me
 ------
-Hi, I am Xinghao Chen, a first year Master Student in Univesity of Washington ECE major. I am planning to pursue a PhD degree in the future.
+This is Xinghao Chen.  
+Now he is studying for a Master degree in University of Washington(a place where I think full of tough guys).  
+He's daydreaming about going to a top university for his PhD degree.  
+He also wants internship opportunities(applied too much and responded 0).  
+But only thing he is doing is playing World of Warships and Cities Skeline.  
+Maybe he is even not recoverd form studying(prisoning) Hengshui High School.  
+He thinks there should be some publications in his personal website.  
+But unfortunately he has no papers published yet!  
+Hopes he will have a bright future.  
